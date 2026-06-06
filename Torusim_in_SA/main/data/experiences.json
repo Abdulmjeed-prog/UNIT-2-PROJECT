@@ -7,7 +7,7 @@
     "category": "Private Tour",
     "duration": "4–5 hours",
     "location": "Al Balad, Jeddah",
-    "image": "images/experiences/Al-bald.jpg",
+    "image": "main/images/experiences/Al-bald.jpg",
     "description": "Explore UNESCO-listed Al Balad's historic streets, coral architecture, and cultural landmarks with a local expert guide."
   },
   {
@@ -18,7 +18,7 @@
     "category": "Heritage Tour",
     "duration": "4 hours",
     "location": "Old Riyadh",
-    "image": "images/experiences/Al Masmak Fortress.jpg",
+    "image": "main/images/experiences/Al Masmak Fortress.jpg",
     "description": "Discover Riyadh's historic heart with guided visits to Al Masmak Fortress, traditional markets, and cultural landmarks."
   },
   {
@@ -29,7 +29,7 @@
     "category": "Heritage Adventure",
     "duration": "Full day",
     "location": "Hegra, AlUla",
-    "image": "images/experiences/alula-rock.jpg",
+    "image": "main/images/experiences/alula-rock.jpg",
     "description": "Visit UNESCO Hegra tombs and the dramatic Elephant Rock for sunset views in ancient AlUla."
   },
   {
@@ -40,7 +40,7 @@
     "category": "Nature Tour",
     "duration": "5 hours",
     "location": "Abha Mountains",
-    "image": "images/experiences/Cable-Car-Al-Habala.jpg",
+    "image": "main/images/experiences/Cable-Car-Al-Habala.jpg",
     "description": "Ride the cable car to cool mountain peaks, explore Asir villages, and enjoy fresh highland air."
   },
   {
@@ -51,7 +51,7 @@
     "category": "Seaside Escape",
     "duration": "Full day",
     "location": "Jeddah Corniche",
-    "image": "images/experiences/Jeddah.webp",
+    "image": "main/images/experiences/Jeddah.webp",
     "description": "Enjoy Jeddah's 30km Corniche with sea views, Floating Mosque, cafés, and relaxed waterfront time."
   },
   {
@@ -62,7 +62,7 @@
   "category": "Esports & Entertainment",
   "duration": "1 week",
   "location": "Boulevard City, Riyadh",
-  "image": "images/experiences/Esport.jpg",
+  "image": "main/images/experiences/Esport.jpg",
   "description": "Experience the global Esports World Cup 2026 in Riyadh with a Weekly All‑Access Pass and 6‑night stay package, designed for fans who want unlimited esports action, fan‑zone activities, and a comfortable base in the city all week."
 }
 ]
